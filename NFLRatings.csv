@@ -1,0 +1,355 @@
+team_away,team_home,Network,Second Network,Third Network,Week,Rating,Viewers (in millions),schedule_season
+Steelers, Patriots ,NBC,,,1,16.2,27.4,2015
+Giants, Cowboys ,NBC,,,1,15.4,26.8,2015
+Ravens, Broncos ,CBS,,,1,13.5,23.3,2015
+Packers, Bears ,FOX,,,1,11.6,20.1,2015
+Regional,,CBS,,,1,-,14.9,2015
+Vikings, 49ers ,ESPN,,,1,8.8,14.3,2015
+Eagles, Falcons ,ESPN,,,1,8.5,13.6,2015
+Cowboys, Eagles ,FOX,,,2,15.5,27.2,2015
+Seahawks, Packers ,NBC,,,2,15.1,26.4,2015
+Broncos, Chiefs ,CBS, NFLN,,2,12.9,21.1,2015
+Regional,,CBS,,,2,-,16.7,2015
+Falcons, Giants ,FOX,,,2,-,15.3,2015
+Jets, Colts ,ESPN,,,2,8.1,12.5,2015
+Bears, Seahawks ,CBS,,,3,12.9,22.1,2015
+Broncos, Lions ,NBC,,,3,13.1,22.1,2015
+Falcons, Cowboys ,FOX,,,3,-,18.3,2015
+Washington Football Team, Giants ,CBS, NFLN,,3,10.5,16.9,2015
+Regional,,CBS,,,3,-,15.1,2015
+Chiefs, Packers ,ESPN,,,3,8.3,13.5,2015
+Packers, 49ers ,FOX,,,4,15,25.9,2015
+Cowboys, Saints ,NBC,,,4,14.1,24.2,2015
+Ravens, Steelers ,CBS, NFLN,,4,11.8,19.4,2015
+Regional,,CBS,,,4,-,15.8,2015
+Lions, Seahawks ,ESPN,,,4,9,14.4,2015
+Giants, Bills ,FOX,,,4,-,12.8,2015
+Jets, Dolphins ,CBS,,,4,-,9.9,2015
+Patriots, Cowboys ,CBS,,,5,15.2,26.1,2015
+49ers, Giants ,NBC,,,5,11.8,19.6,2015
+Seahawks, Bengals ,FOX,,,5,-,18,2015
+Colts, Texans ,CBS, NFLN,,5,9.5,15.1,2015
+Regional,,CBS,,,5,-,13.6,2015
+Steelers, Chargers ,ESPN,,,5,7.7,12.2,2015
+Chargers, Packers ,CBS,,,6,14.5,25,2015
+Patriots, Colts ,NBC,,,6,13.1,22.8,2015
+Regional,,CBS,,,6,10.9,18.3,2015
+Panthers, Seahawks ,FOX,,,6,10.6,17.9,2015
+Falcons,,CBS, NFLN,,6,9.3,14.8,2015
+Giants, Eagles ,ESPN,,,6,8.7,13.9,2015
+Cowboys, Giants ,FOX,,,7,14.4,24.5,2015
+Eagles, Panthers ,NBC,,,7,12.2,20.6,2015
+Regional,,CBS,,,7,11.6,19.2,2015
+Seahawks, 49ers ,CBS, NFLN,,7,10.5,17.1,2015
+Saints, Colts ,FOX,,,7,7.9,12.5,2015
+Ravens, Cardinals ,ESPN,,,7,7.8,12.2,2015
+Bills, Jaguars ,Yahoo!,,,7,-,1.6,2015
+Seahawks, Cowboys ,FOX,,,8,17,29.4,2015
+Packers, Broncos ,NBC,,,8,13,23,2015
+Dolphins, Patriots ,CBS, NFLN,,8,10.9,17.5,2015
+Giants, Saints ,FOX,,,8,10.1,16.6,2015
+Regional,,CBS,,,8,8.4,14.1,2015
+Colts, Panthers ,ESPN,,,8,7.8,12.4,2015
+Lions,Chiefs,FOX,,,8,5.3,8.4,2015
+Broncos, Colts ,CBS,,,9,14.3,24,2015
+Eagles, Cowboys ,NBC,,,9,13.6,23,2015
+Packers, Panthers ,FOX,,,9,12.5,20.9,2015
+Regional,,CBS,,,9,8.1,13.2,2015
+Bears, Chargers ,ESPN,,,9,7.3,11.4,2015
+Browns, Bengals ,NFLN,,,9,5.5,8.8,2015
+Patriots, Giants ,CBS,,,10,16.3,28.3,2015
+Vikings, Raiders ,FOX,,,10,11.6,19.6,2015
+Cardinals, Seahawks ,NBC,,,10,11.4,19.4,2015
+Regional,,CBS,,,10,8.5,14.2,2015
+Texans, Bengals ,ESPN,,,10,7.7,12.2,2015
+Bills, Jets ,NFLN,,,10,4.8,7.6,2015
+Packers, Vikings ,FOX,,,11,15.5,27.5,2015
+Bengals, Cardinals ,NBC,,,11,10.7,18,2015
+Regional,,CBS,,,11,10.4,17.4,2015
+Bills, Patriots ,ESPN,,,11,8.9,14.3,2015
+Washington Football Team, Panthers ,FOX,,,11,8.1,13.7,2015
+Titans, Jaguars ,NFLN,,,11,4.2,6.6,2015
+Panthers, Cowboys ,CBS,,,12,14.3,32.5,2015
+Bears, Packers ,NBC,,,12,13.8,27.8,2015
+Steelers, Seahawks ,CBS,,,12,15.4,26.6,2015
+Eagles, Lions ,FOX,,,12,12.3,25.4,2015
+Patriots, Broncos ,NBC,,,12,14.6,25.2,2015
+Giants, Washington Football Team,FOX,,,12,12.3,20.5,2015
+Ravens, Browns ,ESPN,,,12,6.5,10.1,2015
+Regional,,CBS,,,12,6,9.8,2015
+Panthers, Saints ,FOX,,,13,16.3,28.6,2015
+Colts, Steelers ,NBC,,,13,11.1,19.2,2015
+Packers, Lions ,CBS, NFLN,,13,11,17.8,2015
+Jets, Giants ,CBS,,,13,10.2,17.2,2015
+Seahawks, Vikings ,FOX,,,13,9.4,15.4,2015
+Cowboys, Washington Football Team,ESPN,,,13,8.7,14.2,2015
+Cowboys, Packers ,FOX,,,14,16.5,28.9,2015
+Patriots, Texans ,NBC,,,14,12.3,21,2015
+Regional,,CBS,,,14,10.9,18.6,2015
+Falcons, Panthers ,FOX,,,14,8.9,15.2,2015
+Giants, Dolphins ,ESPN,,,14,7.4,11.5,2015
+Vikings, Cardinals ,NFLN,,,14,5.5,8.7,2015
+Broncos, Steelers ,CBS,,,15,14.5,25,2015
+Panthers, Giants ,FOX,,,15,14.5,25,2015
+Cardinals, Eagles ,NBC,,,15,10.5,18.1,2015
+Lions, Saints ,ESPN,,,15,6.7,10.9,2015
+Jets, Cowboys ,NFLN,,,15,4.3,7.4,2015
+Buccaneers, Rams ,NFLN,,,15,3.8,6,2015
+Packers, Cardinals ,FOX,,,16,15.5,27.8,2015
+Vikings, Giants ,NBC,,,16,10.4,17.9,2015
+Regional,,CBS,,,16,-,17.6,2015
+Panthers, Falcons ,FOX,,,16,-,16.2,2015
+Bengals, Broncos ,ESPN,,,16,9.4,15.8,2015
+Washington Football Team, Eagles ,NFLN,,,16,-,8.1,2015
+Chargers, Raiders ,NFLN,,,16,-,7.7,2015
+Vikings, Panthers ,NBC,,,17,13.8,24.3,2015
+Seahawks, Cardinals ,FOX,,,17,12,20.9,2015
+Regional,,CBS,,,17,11.2,18.6,2015
+Regional,,CBS,,,17,10.3,17.6,2015
+Rams, 49ers ,ESPN,,,1,6.2,10.3,2016
+Steelers, Washington Football Team ,ESPN,,,1,7.7,13,2016
+Packers, Jaguars ,FOX,,,1,9.2,15.8,2016
+Regional,,CBS,,,1,9.3,16,2016
+Patriots, Cardinals ,NBC,,,1,13.1,23.1,2016
+Panthers, Broncos ,NBC,,,1,14.6,25.2,2016
+Giants, Cowboys ,FOX,,,1,15.5,27.5,2016
+Eagles, Bears ,ESPN,,,2,7.3,12.1,2016
+Regional,,CBS,,,2,8.5,14.4,2016
+Jets, Bills ,CBS, NFLN,,2,9.5,15.4,2016
+Cowboys, Washington Football Team ,FOX,,,2,11,19.2,2016
+Colts, Broncos ,CBS,,,2,12.2,21.4,2016
+Packers, Vikings ,NBC,,,2,12.7,22.8,2016
+Falcons, Saints ,ESPN ,,,3,4.9,8,2016
+Regional,,CBS,,,3,8,13.1,2016
+Texans, Patriots ,CBS, NFLN,,3,10.6,17.5,2016
+Washington Football Team, Giants ,FOX,,,3,11.1,19.2,2016
+Bears, Cowboys ,NBC,,,3,11.7,20.6,2016
+Steelers, Eagles ,CBS,,,3,12.6,22,2016
+Colts, Jaguars,CBS,,,4,4.8,7.7,2016
+Dolphins, Bengals ,NFLN,,,4,4.8,7.9,2016
+Seahawks, Jets ,FOX,,,4,6.7,11.2,2016
+Giants, Vikings ,ESPN,,,4,8,13.2,2016
+Regional,,CBS,,,4,9.4,16.4,2016
+Chiefs, Steelers ,NBC,,,4,10.3,18.1,2016
+Cowboys, 49ers ,FOX,,,4,13.1,22.7,2016
+Buccaneers, Panthers ,ESPN,,,5,5.6,9.1,2016
+Cardinals, 49ers ,CBS, NFLN,,5,7.4,12.1,2016
+Regional,,CBS,,,5,9,15.2,2016
+Giants, Packers ,NBC,,,5,9.3,16.6,2016
+Falcons, Broncos ,FOX,,,5,9.4,16.5,2016
+Bengals, Cowboys ,CBS,,,5,12.1,21.3,2016
+Jets, Cardinals ,ESPN,,,6,5.2,8.4,2016
+Eagles, Washington Football Team ,FOX,,,6,7.7,13.2,2016
+Colts, Texans ,NBC,,,6,8.1,13.6,2016
+Broncos, Chargers ,CBS, NFLN,,6,8.7,14.5,2016
+Regional,,CBS,,,6,10.2,17.2,2016
+Cowboys, Packers ,FOX,,,6,15.8,28,2016
+Giants, Rams,NFLN,,,7,2.4,3.7,2016
+Texans, Broncos ,ESPN,,,7,6.7,11.2,2016
+Regional,,CBS,,,7,7,11.3,2016
+Packers, Bears ,CBS, NFLN,,7,8.6,14.2,2016
+Vikings, Eagles ,FOX,,,7,10.1,16.9,2016
+Seahawks, Cardinals ,NBC,,,7,10.2,17.7,2016
+Patriots, Steelers ,CBS,,,7,12.6,21.7,2016
+Jaguars, Titans ,NFLN,,,8,3.2,5.1,2016
+Washington Football Team, Bengals,FOX,,,8,5.5,8.7,2016
+Vikings, Bears ,ESPN,,,8,6.4,10.5,2016
+Seahawks, Saints ,FOX,,,8,7.7,12.8,2016
+Regional,,CBS,,,8,9.5,16.2,2016
+Eagles, Cowboys ,NBC,,,8,10.2,18,2016
+Packers, Falcons ,FOX,,,8,13.1,22.7,2016
+Falcons, Buccaneers ,NFLN,,,9,3.6,5.8,2016
+Bills, Seahawks ,ESPN,,,9,6.9,11.3,2016
+Regional,,CBS,,,9,6.9,11.3,2016
+Broncos, Raiders ,NBC,,,9,10.4,18.3,2016
+Cowboys, Browns ,FOX,,,9,11.6,20.2,2016
+Colts, Packers ,CBS,,,9,11.7,20.2,2016
+Cowboys, Steelers ,FOX,,,10,16.4,28.9,2016
+Patriots, Seahawks ,NBC,,,10,12.7,22.5,2016
+Falcons, Eagles ,FOX,,,10,9.4,15.9,2016
+Regional,,CBS,,,10,7.8,13.2,2016
+Ravens, Browns ,NFLN,,,10,3.5,5.7,2016
+Eagles, Seahawks ,CBS,,,11,13.6,24.4,2016
+Packers, Washington Football Team ,NBC,,,11,10.8,18.7,2016
+Ravens, Cowboys ,CBS,,,11,10.2,17.6,2016
+Bears, Giants ,FOX,,,11,8.45,14.3,2016
+Saints, Panthers ,NBC, NFLN,,11,8.1,13.3,2016
+Texans, Raiders ,ESPN,,,11,6.9,11.8,2016
+Washington Football Team, Cowboys ,FOX,,,12,14.5,35.1,2016
+Vikings, Lions ,CBS,,,12,13,27.6,2016
+Colts, Steelers ,NBC,,,12,10.1,20.9,2016
+Chiefs, Broncos ,NBC,,,12,10.7,18.4,2016
+Seahawks, Buccaneers ,FOX,,,12,9.8,13.1,2016
+Packers, Eagles ,ESPN,,,12,7.8,13.1,2016
+Regional,,CBS,,,12,7.6,12.8,2016
+Giants, Steelers ,FOX,,,13,14.6,25.4,2016
+Cowboys, Vikings ,NBC, NFLN,,13,12.8,21.8,2016
+Regional,,CBS,,,13,10.8,18.5,2016
+Panthers, Seahawks ,NBC,,,13,10.2,17.8,2016
+Lions, Saints ,FOX,,,13,7.3,12.2,2016
+Colts, Jets ,ESPN,,,13,5,8.1,2016
+Cowboys, Giants ,NBC,,,14,14.9,26.5,2016
+Seahawks, Packers ,FOX,,,14,14.4,25.3,2016
+Regional,,CBS,,,14,11.2,19.1,2016
+Raiders, Chiefs ,NBC, NFLN,,14,10.5,17.4,2016
+Ravens, Patriots ,ESPN,,,14,7.8,12.9,2016
+Washington Football Team, Eagles ,FOX,,,14,7.5,12.3,2016
+Patriots, Broncos ,CBS,,,15,14.25,25,2016
+Buccaneers, Cowboys ,NBC,,,15,13.6,24.1,2016
+Lions, Giants ,FOX,,,15,10.8,18.7,2016
+Regional,,CBS,,,15,8.8,15,2016
+Rams, Seahawks ,NBC, NFLN,,15,8.8,14.7,2016
+Panthers, Redskins ,ESPN,,,15,6.8,11.2,2016
+Jets, Dolphins ,NFLN,,,15,2.5,4.4,2016
+Chiefs, Broncos ,NBC,,,16,10.6,21.4,2016
+Lions, Cowboys ,ESPN,,,16,10.1,18.6,2016
+Packers, Vikings ,FOX,,,16,10,18.4,2016
+Giants, Eagles ,NBC, NFLN,,16,10.6,17.9,2016
+Buccaneers, Saints ,FOX,,,16,8.1,15.4,2016
+Steelers, Ravens ,NFLN,,,16,6.5,14.8,2016
+Regional,,CBS,,,16,7.7,14.2,2016
+Bengals, Texans ,NFLN,,,16,3.2,6.3,2016
+Packers, Lions ,NBC,,,17,13,23.8,2016
+Giants, Washington Football Team ,FOX,,,17,12.3,22.4,2016
+Cowboys, Eagles ,FOX,,,17,9.65,17,2016
+Dolphins, Patriots ,CBS,,,17,9.2,16.6,2016
+Regional,,CBS,,,17,6.8,12.1,2016
+Giants, Cowboys ,NBC,,,1,13.4,24.37,2017
+Seahawks, Packers ,FOX,,,1,12.7,22.8,2017
+Chiefs, Patriots ,NBC,,,1,12.6,21.79,2017
+Various,,CBS,,,1,7.6,13.34,2017
+Saints, Vikings ,ESPN,,,1,6.8,11.39,2017
+Eagles, Washington Football Team ,FOX,,,1,6.6,11.34,2017
+Chargers, Broncos ,ESPN,,,1,6,9.94,2017
+Cowboys, Broncos ,FOX,,,2,14.3,25.97,2017
+Packers, Falcons ,NBC,,,2,11.3,20.24,2017
+Various,,CBS,,,2,8.4,14.52,2017
+Eagles, Chiefs ,FOX,,,2,7.9,13.21,2017
+Lions, Giants ,ESPN,,,2,7.4,12.29,2017
+Texans, Bengals ,NFLN,,,2,4.9,8.08,2017
+Bengals, Packers ,CBS,,,3,12.2,21.27,2017
+Raiders, Washington Football Team ,NBC,,,3,10.1,17.48,2017
+Giants, Eagles ,FOX,,,3,9.2,15.43,2017
+Various,,CBS,,,3,8.4,14.41,2017
+Cowboys, Cardinals ,ESPN,,,3,8.2,13.69,2017
+Rams, 49ers ,NFLN,,,3,4.4,7.45,2017
+Rams, Cowboys ,FOX,,,4,11.5,20.06,2017
+Colts, Seahawks ,NBC,,,4,9.55,16.73,2017
+Raiders, Broncos ,CBS,,,4,9.1,15.59,2017
+Bears, Packers ,CBS, NFLN, Amazon,4,8.9,14.61,2017
+Various,,CBS,,,4,7,11.7,2017
+Saints, Dolphins ,NBC,,,4,4,6.4,2017
+Packers, Cowboys ,FOX,,,5,13.6,23.96,2017
+Chiefs, Texans ,NBC,,,5,9.5,16.53,2017
+Patriots, Buccaneers ,CBS, NFLN, Amazon,5,9.4,15.43,2017
+Various,,CBS,,,5,7.8,13.18,2017
+Panthers, Lions ,FOX,,,5,7.5,12.33,2017
+Vikings, Bears ,ESPN,,,5,6.1,10.28,2017
+Steelers, Chiefs ,CBS,,,6,12,20.59,2017
+Packers, Vikings ,FOX,,,6,9.4,16.2,2017
+Giants, Broncos ,NBC,,,6,9.4,16.16,2017
+Eagles, Cardinals ,CBS, NFLN, Amazon,6,8.9,14.59,2017
+Various,,CBS,,,6,6.6,10.94,2017
+Colts, Titans ,ESPN,,,6,5.2,8.38,2017
+Bengals, Steelers ,CBD,,,7,11.3,19.85,2017
+Falcons, Patriots ,NBC,,,7,11,19.24,2017
+Cowboys, 49ers ,FOX,,,7,9.5,16.12,2017
+Chiefs, Raiders ,CBS, NFLN, Amazon,7,8.6,14.38,2017
+Various ,,CBS,,,7,8.2,13.36,2017
+Washington Football Team, Eagles ,ESPN,,,7,6.9,11.28,2017
+Cowboys, Washington Football Team ,FOX,,,8,12.7,22.02,2017
+Chargers, Patriots ,CBS,,,8,8.9,15.16,2017
+Steelers, Lions ,NBC,,,8,8,13.86,2017
+Bears, Saints ,FOX,,,8,7.3,12.44,2017
+Dolphins, Ravens ,CBS, NFLN, Amazon,8,7,11.36,2017
+Broncos, Chiefs ,ESPN,,,8,6.3,10.42,2017
+Vikings, Browns ,NFLN,,,8,2.1,3.45,2017
+Chiefs, Cowboys ,CBS,,,9,12.5,21.68,2017
+Raiders, Dolphins ,NBC,,,9,8.55,14.36,2017
+Falcons, Panthers ,FOX,,,9,8.4,14.21,2017
+Various,,CBS,,,9,7.15,11.95,2017
+Lions, Packers ,ESPN,,,9,6.8,11.08,2017
+Bills, Jets ,NFLN,,,9,3.6,5.84,2017
+Cowboys, Falcons ,FOX,,,10,12.8,21.96,2017
+Patriots, Broncoes ,NBC,,,10,10.2,17.51,2017
+Seahawks, Cardinals ,NBC, NFLN, Amazon,10,7.9,13.1,2017
+Vikings, Washington Football Team ,FOX,,,10,7.4,12.35,2017
+Various,,CBS,,,10,7.2,11.83,2017
+Dolphins, Panthers ,ESPN,,,10,5.4,8.76,2017
+Cowboys, Eagles ,NBC,,,11,11.9,21.06,2017
+Patriots, Raiders ,CBS,,,11,10.9,19.03,2017
+Washington Football Team, Saints ,FOX,,,11,9.4,15.71,2017
+Titans, Steelers ,NBC, NFLN, Amazon,11,8.2,13.51,2017
+Falcons, Seahawks ,ESPN,,,11,6.4,10.76,2017
+Chiefs, Giants ,CBS,,,11,6.5,10.71,2017
+Chargers, Cowboys ,CBS,,,12,11.1,26.3,2017
+Vikings, Lions ,FOX,,,12,11.4,24.74,2017
+Saints, Rams ,CBS,,,12,11.6,19.9,2017
+Packers, Steelers ,NBC,,,12,11,18.95,2017
+Giants, Washington Football Team ,NBC,,,12,-,16.91,2017
+Bears, Eagles ,FOX,,,12,8.9,15.36,2017
+Various,,CBS,,,12,6.5,10.91,2017
+Texans, Ravens ,ESPN,,,12,5.1,8.27,2017
+Panthers, Saints ,FOX,,,13,12,20.22,2017
+Eagles, Seahawks ,NBC,,,13,11.3,19.69,2017
+Washington Football Team, Cowboys ,NBC, NFLN, Amazon,13,9.4,15.6,2017
+Various ,,CBS,,,13,9.1,15.13,2017
+Vikings, Falcons ,FOX,,,13,6.8,11.17,2017
+Steelers, Bengals ,ESPN,,,13,6.7,10.84,2017
+Eagles, Rams ,FOX,,,14,13.7,23.78,2017
+Ravens, Steelers ,NBC,,,14,10.1,17.2,2017
+Cowboys, Giants ,FOX,,,14,9.1,15.54,2017
+Saints, Falcons ,NBC, NFLN, Amazon,14,8.9,14.61,2017
+Various,,CBS,,,14,8.15,13.89,2017
+Patriots, Dolphins ,ESPN,,,14,7.2,11.78,2017
+Patriots, Steelers ,CBS,,,15,15.2,26.88,2017
+Cowboys, Raiders ,NBC,,,15,11.1,19.19,2017
+Packers, Panthers ,FOX,,,15,10.6,18.05,2017
+Broncos, Colts ,NBC, NFLN, Amazon,15,6.5,10.64,2017
+Various,,CBS,,,15,6,9.91,2017
+Falcons, Buccaneers ,ESPN,,,15,5.7,9.41,2017
+Chargers, Chiefs ,NFLN,,,15,4,6.99,2017
+Bears, Lions ,NFLN,,,15,3.1,5.18,2017
+Seahawks, Cowboys ,FOX,,,16,12.2,23.03,2017
+Steelers, Texans ,NBC, NFLN, Amazon,16,8,16.92,2017
+Patriots, Bills ,CBS,,,16,8.9,15.81,2017
+Vikings, Packers ,NBC,,,16,8.4,15.29,2017
+Falcons, Saints ,FOX,,,16,6.9,12.41,2017
+Raiders, Eagles ,ESPN,,,16,5.9,11.74,2017
+Colts, Ravens ,NFLN,,,16,3.1,5.4,2017
+Panthers, Falcons ,FOX,,,17,11.45,20.78,2017
+Bengals, Ravens ,CBS,,,17,8.7,15.6,2017
+Bears, Vikings ,FOX,,,17,7.9,13.59,2017
+Cowboys,Panthers ,FOX,,,1,13.1,23.3,2018
+Bears,Packers,NBC,,,1,12.5,22.5,2018
+Falcons,Eagles,NBC,,,1,11.2,19.5,2018
+Texans,Patriots,CBS,,,1,9.7,17.08,2018
+49ers,Vikings,FOX,,,1,7.4,12.54,2018
+Jets,Lions,ESPN,,,1,6.2,10.34,2018
+Rams,Raiders,ESPN,,,1,5.9,9.61,2018
+Patriots,Jaguars,CBS,,,2,12,20.97,2018
+Giants,Cowboys ,NBC,,,2,11.7,21,2018
+Vikings,Packers,FOX,,,2,10,17.62,2018
+Seahawks,Bears,ESPN,,,2,7,11.72,2018
+Ravens,Bengals,NFLN,,,2,4.2,7.02,2018
+Cowboys,Seahawks,FOX,,,3,12.7,22.2,2018
+Patriots,Lions,NBC,,,3,11.5,19.46,2018
+49ers,Chiefs,FOX,,,3,8.2,13.81,2018
+Steelers,Buccaneers,ESPN,,,3,7.2,12.01,2018
+Jets,Browns,NFLN,,,3,5.2,8.63,2018
+Saints,Giants ,CBS,,,4,12.1,20.69,2018
+Lions,Cowboys,FOX,,,4,10.3,18.01,2018
+Ravens,Steelers,NBC,,,4,10.4,18.2,2018
+Vikings,Rams,FOX,NFLN,,4,8.9,15.1,2018
+Chiefs,Broncos,ESPN,,,4,7.9,13.21,2018
+Vikings,Eagles ,FOX,,,5,12.2,21.04,2018
+Cowboys,Texans,NBC,,,5,10.7,18.59,2018
+Packers,Lions,FOX,,,5,8.2,13.66,2018
+Jaguars,Chiefs,CBS,,,5,8,13.33,2018
+Colts,Patriots,FOX,NFLN,,5,8,13.22,2018
+Washington Football Team,Saints,ESPN,,,5,6.3,10.51,2018
+Chiefs,Patriots,NBC,,,6,12.3,21.5,2018
+Cowboys,Jaguars,CBS,,,6,10.2,17.64,2018
+Panthers,Washington Football Team,FOX,,,6,10,17.29,2018
+Eagles,Giants ,FOX,NFLN,,6,8.9,15.3,2018
+49ers,Packers,ESPN,,,6,7.2,11.88,2018
